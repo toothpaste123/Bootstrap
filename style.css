@@ -1,10 +1,9 @@
 .c-item{
-    height: 32rem;
+    height: 400px;
     background: #777;
+    
 }
-.container{
+.container-inner{
     color: white;
-    bottom: 0;
-    left: 0;
-    right: 0;
+    
 }
