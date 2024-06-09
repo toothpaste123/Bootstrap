@@ -17,3 +17,25 @@
 .circle-container{
     padding: 50px;
 }
+.square{
+    min-width: 500px;
+    min-height: 500px;
+    max-width: 500px;
+    max-height: 500px;
+    background: #777;
+    
+}
+.main{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.back-to-top{
+    text-decoration: none;
+}
+.footer{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.paragraph{
+    color: #777;
+}
