@@ -7,3 +7,13 @@
     color: white;
     
 }
+.circle{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background: #777;
+    display: inline-block;
+}
+.circle-container{
+    padding: 50px;
+}
